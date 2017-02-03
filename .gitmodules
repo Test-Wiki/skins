@@ -1,0 +1,4 @@
+[submodule "Refreshed"]
+	path = Refreshed
+	url = https://github.com/wikimedia/mediawiki-skins-Refreshed
+	branch = master
