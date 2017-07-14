@@ -6,15 +6,15 @@
 	path = Modern
 	url = https://github.com/wikimedia/mediawiki-skins-Modern
 	branch = REL1_29
-[submodule "Monobook"]
-	path = Monobook
-	url = https://github.com/wikimedia/mediawiki-skins-Monobook
+[submodule "Vector"]
+	path = Vector
+	url = https://github.com/wikimedia/mediawiki-skins-Vector
 	branch = REL1_29
 [submodule "CologneBlue"]
 	path = CologneBlue
 	url = https://github.com/wikimedia/mediawiki-skins-CologneBlue
 	branch = REL1_29
-[submodule "Vector"]
-	path = Vector
-	url = https://github.com/wikimedia/mediawiki-skins-Vector
+[submodule "MonoBook"]
+	path = MonoBook
+	url = https://github.com/wikimedia/mediawiki-skins-MonoBook
 	branch = REL1_29
