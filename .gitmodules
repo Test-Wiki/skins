@@ -18,3 +18,7 @@
 	path = MonoBook
 	url = https://github.com/wikimedia/mediawiki-skins-MonoBook
 	branch = REL1_29
+[submodule "Timeless"]
+	path = Timeless
+	url = https://github.com/wikimedia/mediawiki-skins-Timeless
+	branch = REL1_29
