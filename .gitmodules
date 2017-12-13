@@ -5,20 +5,20 @@
 [submodule "Modern"]
 	path = Modern
 	url = https://github.com/wikimedia/mediawiki-skins-Modern
-	branch = REL1_29
+	branch = REL1_30
 [submodule "Vector"]
 	path = Vector
 	url = https://github.com/wikimedia/mediawiki-skins-Vector
-	branch = REL1_29
+	branch = REL1_30
 [submodule "CologneBlue"]
 	path = CologneBlue
 	url = https://github.com/wikimedia/mediawiki-skins-CologneBlue
-	branch = REL1_29
+	branch = REL1_30
 [submodule "MonoBook"]
 	path = MonoBook
 	url = https://github.com/wikimedia/mediawiki-skins-MonoBook
-	branch = REL1_29
+	branch = REL1_30
 [submodule "Timeless"]
 	path = Timeless
 	url = https://github.com/wikimedia/mediawiki-skins-Timeless
-	branch = REL1_29
+	branch = REL1_30
