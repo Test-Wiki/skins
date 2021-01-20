@@ -22,7 +22,3 @@
 	path = Timeless
 	url = https://github.com/wikimedia/mediawiki-skins-Timeless
 	branch = REL1_35
-[submodule "Cosmos"]
-	path = Cosmos
-	url = https://github.com/wikimedia/mediawiki-skins-Cosmos
-	branch = REL1_35
