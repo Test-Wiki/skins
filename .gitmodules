@@ -26,3 +26,7 @@
 	path = Cosmos
 	url = https://github.com/wikimedia/mediawiki-skins-Cosmos
 	branch = REL1_43
+[submodule "Citizen"]
+	path = Citizen
+	url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen
+	branch = main
