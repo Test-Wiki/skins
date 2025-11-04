@@ -30,3 +30,7 @@
 	path = Citizen
 	url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen
 	branch = main
+[submodule "mediawiki-strapping"]
+	path = mediawiki-strapping
+	url = https://github.com/wikimedia/mediawiki-skins-mediawiki-strapping
+	branch = REL1_44
