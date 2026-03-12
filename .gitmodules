@@ -30,3 +30,7 @@
 	path = Citizen
 	url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen
 	branch = main
+[submodule "MinervaNeue"]
+	path = MinervaNeue
+	url = https://github.com/wikimedia/mediawiki-skins-MinervaNeue
+	branch = REL1_45
