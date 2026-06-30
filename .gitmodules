@@ -5,27 +5,27 @@
 [submodule "Modern"]
 	path = Modern
 	url = https://github.com/wikimedia/mediawiki-skins-Modern
-	branch = REL1_45
+	branch = REL1_46
 [submodule "Vector"]
 	path = Vector
 	url = https://github.com/wikimedia/mediawiki-skins-Vector
-	branch = REL1_45
+	branch = REL1_46
 [submodule "CologneBlue"]
 	path = CologneBlue
 	url = https://github.com/wikimedia/mediawiki-skins-CologneBlue
-	branch = REL1_45
+	branch = REL1_46
 [submodule "MonoBook"]
 	path = MonoBook
 	url = https://github.com/wikimedia/mediawiki-skins-MonoBook
-	branch = REL1_45
+	branch = REL1_46
 [submodule "Timeless"]
 	path = Timeless
 	url = https://github.com/wikimedia/mediawiki-skins-Timeless
-	branch = REL1_45
+	branch = REL1_46
 [submodule "Cosmos"]
 	path = Cosmos
 	url = https://github.com/wikimedia/mediawiki-skins-Cosmos
-	branch = REL1_45
+	branch = REL1_46
 [submodule "Citizen"]
 	path = Citizen
 	url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen
@@ -33,4 +33,4 @@
 [submodule "MinervaNeue"]
 	path = MinervaNeue
 	url = https://github.com/wikimedia/mediawiki-skins-MinervaNeue
-	branch = REL1_45
+	branch = REL1_46
